@@ -25,11 +25,11 @@
 </p>
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=renanarimon.renanarimon)
-[![Github](https://img.shields.io/github/followers/renanarimon?label=Follow&style=social)](https://github.com/CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=taliyashitreet.taliyashitreet)
+[![Github](https://img.shields.io/github/followers/taliyashitreet?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renanarimon&theme=tokyonight)
-![Renana's GitHub stats](https://github-readme-stats.vercel.app/api?username=renanarimon&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taliyashitreet&theme=tokyonight)
+![Renana's GitHub stats](https://github-readme-stats.vercel.app/api?username=taliyashitreet&show_icons=true&theme=tokyonight)
 
 ## check out my latest projects
 <p align="center">
@@ -43,12 +43,12 @@
   </div>
 
   <div class = "column">
-   <a href="https://github.com/renanarimon/OOP_Ex4.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262240-48715e55-fc7a-4af9-8484-bcb7d49405e6.png" alt="Python" height="180" style="vertical-align:top; margin:4px"><div class="Bottom Left">Pokemon Game (python)</div></a>
+   <a href="https://github.com/taliyashitreet/OOP_Ex4" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262240-48715e55-fc7a-4af9-8484-bcb7d49405e6.png" alt="Python" height="180" style="vertical-align:top; margin:4px"><div class="Bottom Left">Pokemon Game (python)</div></a>
    
   </div>
 
   <div class = "column">
-   <a href="https://github.com/renanarimon/Bayes_Net.git" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262618-ad78ec14-eb40-4d8f-a841-99b51ebdcfe8.png" alt="Python" height="180" style="vertical-align:top; margin:4px"><div class="Bottom Left">bayesian network (java)</div></a>
+   <a href="https://github.com/taliyashitreet/AI_Algo1" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/77155986/148262618-ad78ec14-eb40-4d8f-a841-99b51ebdcfe8.png" alt="Python" height="180" style="vertical-align:top; margin:4px"><div class="Bottom Left">bayesian network (java)</div></a>
    
    </div>
   </div>
