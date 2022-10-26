@@ -1,6 +1,7 @@
 ### Hi there 👋
 **taliyashitreet/taliyashitreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🌱 I'm a second year Student of CS & Math, Data Science and AI
+- 🌱 I'm a third
+year Student of CS & Math, Data Science and AI
 - :school: Ariel University
 
 ## ✉️ Find me on:
